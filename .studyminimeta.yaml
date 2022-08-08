@@ -1,0 +1,24 @@
+#<!-- METADATA START --> # DO NOT DELETE THIS LINE
+dataset:
+  name: Example subdataset
+  location: https://github.com/example/example
+  description: It can be challenging to create an example subdataset"
+  keyword:
+    - DataLad
+    - Metadata
+    - Spam
+  author:
+    - a@example.com
+    - b@example.com
+  funding:
+    - German Research Foundation (DFG), DFG-SFB 1451
+
+  person:
+    a@example.com:
+      given_name: Adam
+      last_name: Adams
+    b@example.com:
+      given_name: John
+      last_name: Baker
+
+#<!-- METADATA END -->  # DO NOT DELETE THIS LINE
